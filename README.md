@@ -17,3 +17,13 @@ sudo apt-get install python3
 pkg install git
 pkg install python3
 ```
+
+### Usage Tool
+```
+git clone https://github.com/StfuZEUS/ZeusTrack.git
+cd ZeusTrack
+pip install -r requirements.txt
+python ZeusTR.py
+```
+
+Display on the menu ```IP Tracker```
