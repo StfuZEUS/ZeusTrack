@@ -29,3 +29,7 @@ python ZeusTR.py
 Display on the menu ```IP Tracker```
 
 ![image alt](https://github.com/StfuZEUS/ZeusTrack/blob/7c4497709e1adf5c29a7cd207b7b59ce0ffae7fc/Screenshot_20251116-203846.jpg)
+
+on the IP Track menu, you can combo with the seeker tool to get the target IP
+
+Display on the menu ```Phone Tracker```
