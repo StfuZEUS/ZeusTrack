@@ -5,3 +5,9 @@ Useful tool to track location or mobile number, so this tool can be called osint
 
 Lastest Update :
 ``` Version 1.0 ```
+
+### Installation On Linux (deb) 
+```
+sudo apt-get install git
+sudo apt-get install python3
+```
